@@ -1,8 +1,12 @@
 ### Hi, I'm Vinay Roy
 
-I build AI products that hold up in production. VP of Product at [Burq](https://burq.ai), leading product, design, and AI for last-mile delivery. I also run [Neuto AI](https://www.neuto.ai), an AI automation practice, and teach AI and ML strategy at Berkeley Executive Education.
+VP of Product at [Burq](https://burq.ai), where I lead Product, Design and AI and am building Burq Intelligence, a governed decision system that observes operations, recommends actions, and executes within customer-defined policies.
 
-Before this: VP of Product and Head of Data and AI at Vista Global, product at Apple (Sidecar, 3 US patents), and engineering at Qualcomm and Nvidia. Haas MBA, IIT Roorkee.
+Before Burq, I was the founding product leader at an AI SaaS startup, taking it from zero to product-market fit and building multi-agent systems in production. Before that, I led a global team of about 80 across Product, Data Science and Analytics at Vista, the private aviation group behind VistaJet and XO. Earlier: marketplace growth at Zeus Living, macOS and iOS features at Apple (including Sidecar), and engineering teams at Qualcomm and NVIDIA.
+
+For seven years I was Head Instructor for the AI/ML executive program at UC Berkeley Executive Education, teaching more than 10,000 business leaders. I also run [Neuto AI](https://www.neuto.ai), an AI automation practice. 3 US patents, MBA from Berkeley Haas, MS from IIT Roorkee.
+
+My approach is problem first: frame the decision, pick the simplest pattern that works, and prove value with evals and guardrails. The repos below are that approach in code.
 
 #### What I build here
 
@@ -20,4 +24,4 @@ Before this: VP of Product and Head of Data and AI at Vista Global, product at A
 
 #### Find me
 
-San Jose, CA · [neuto.ai](https://www.neuto.ai)
+San Jose, CA · [LinkedIn](https://www.linkedin.com/in/royvinay) · [neuto.ai](https://www.neuto.ai)
