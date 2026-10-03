@@ -1,6 +1,6 @@
 ### Hi, I'm Vinay Roy
 
-VP of Product at [Burq](https://burq.ai), where I lead Product, Design and AI and am building Burq Intelligence, a governed decision system that observes operations, recommends actions, and executes within customer-defined policies.
+VP of Product at [Burq.ai](https://burq.ai), where I lead Product, Design and AI and am building Burq Intelligence, a governed decision system that observes operations, recommends actions, and executes within customer-defined policies.
 
 Before Burq, I was the founding product leader at an AI SaaS startup, taking it from zero to product-market fit and building multi-agent systems in production. Before that, I led a global team of about 80 across Product, Data Science and Analytics at Vista, the private aviation group behind VistaJet and XO. Earlier: marketplace growth at Zeus Living, macOS and iOS features at Apple (including Sidecar), and engineering teams at Qualcomm and NVIDIA.
 
