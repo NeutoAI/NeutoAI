@@ -11,6 +11,8 @@ My projects explore what it takes to move AI from demos into production: evaluat
 | [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents) | Working agents with guardrails and evals, including a fault-injection benchmark: the same agent with guards off vs on across 7 failure types, 100 trials each. |
 | [ai-decision-log](https://github.com/roy-vinay/ai-decision-log) | One-page memos on applied AI product decisions: the options, the numbers, what was picked, and what would change it. |
 
+**Series: [Failure Files](https://github.com/roy-vinay/applied-ai-agents/tree/main/failure-files)**, public AI failures turned into experiments. Each file is a case study of a documented incident, then the failure mode reproduced and the fixes measured.
+
 #### Writing
 
 - [Building AI Agents That Survive Production](https://vinaysays.medium.com/building-ai-agents-that-survive-production-5bbb2257ba0a)
