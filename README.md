@@ -19,6 +19,11 @@ My projects explore what it takes to move AI from demos into production: evaluat
 
 #### About
 
-VP of Product at [Burq.ai](https://burq.ai), leading Product, Design and AI. Previously built AI products and led product and data teams at startups and at Apple, Vista and NVIDIA. Former Head Instructor for the AI/ML executive program at UC Berkeley Executive Education.
+VP of Product at [Burq.ai](https://burq.ai), leading Product, Design and AI.
 
-San Jose, CA · [LinkedIn](https://www.linkedin.com/in/royvinay) · [neuto.ai](https://www.neuto.ai)
+Before Burq, I was the founding product leader at an AI SaaS startup, taking it from zero to product-market fit and building multi-agent systems in production. Before that, I led a global team of about 80 across Product, Data Science and Analytics at Vista, the private aviation group behind VistaJet and XO.<br>
+Earlier: marketplace growth at Zeus Living, macOS and iOS features at Apple (including Sidecar), and engineering teams at Qualcomm and NVIDIA.
+
+For seven years I was Head Instructor for the AI/ML executive program at UC Berkeley Executive Education, teaching more than 10,000 business leaders. 3 US patents, MBA from Berkeley Haas, MS from IIT Roorkee.
+
+San Jose, CA · [LinkedIn](https://www.linkedin.com/in/royvinay)
