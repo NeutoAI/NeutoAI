@@ -13,6 +13,7 @@ My approach is problem first: frame the decision, pick the simplest pattern that
 | Repo | What it shows |
 | --- | --- |
 | [production-agent-patterns](https://github.com/NeutoAI/production-agent-patterns) | A support agent with guarded tool calls, retries, budgets, idempotent writes, and trajectory evals in CI. Companion code to my article on production agents. |
+| [ai-decision-log](https://github.com/NeutoAI/ai-decision-log) | One-page memos on applied AI product decisions: the options, the numbers, what was picked, and what would change it. |
 | [burq-agent](https://github.com/NeutoAI/burq-agent) | Pulse AI: a delivery provider selection agent that reasons through cost, reliability, and coverage to pick a last-mile carrier. |
 | [MCP_Client_Server_Implementation](https://github.com/NeutoAI/MCP_Client_Server_Implementation) | A command-line chat client and server built on the Model Context Protocol, with document retrieval and tool integrations. |
 
