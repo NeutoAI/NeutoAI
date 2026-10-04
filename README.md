@@ -1,6 +1,6 @@
 ### Hi, I'm Vinay Roy
 
-I build and study AI systems that make real-world decisions.
+I am a AI and Product leader who builds, tests, and writes about how AI changes products and the way we build them.
 
 My projects explore what it takes to move AI from demos into production: evaluation, tool use, guardrails, human oversight, and decision quality. Each one starts the same way: a real problem, the smallest version that works, evals on the behavior that matters, and a write-up of the trade-offs.
 
