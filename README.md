@@ -9,12 +9,15 @@ My projects explore what it takes to move AI from demos into production: evaluat
 | Repo | What it shows |
 | --- | --- |
 | [applied-ai-agents](https://github.com/roy-vinay/applied-ai-agents) | Working agents with guardrails and evals, including a fault-injection benchmark: the same agent with guards off vs on across 7 failure types, 100 trials each. |
+| [claude-code-team-playbook](https://github.com/roy-vinay/claude-code-team-playbook) | How to run several coding agents like a small team, plus **[Claim Before Code](https://github.com/roy-vinay/claude-code-team-playbook/tree/main/claim-before-code)**: agents claim shared code before editing it, and overlaps go to the owner instead of a merge conflict. |
 | [ai-decision-log](https://github.com/roy-vinay/ai-decision-log) | One-page memos on applied AI product decisions: the options, the numbers, what was picked, and what would change it. |
 
 **Series: [Failure Files](https://github.com/roy-vinay/applied-ai-agents/tree/main/failure-files)**, public AI failures turned into experiments. Each file is a case study of a documented incident, then the failure mode reproduced and the fixes measured.
 
 #### Writing
 
+- [When Your Team's Coding Agents Start Stepping on Each Other](https://vinaysays.medium.com/when-your-teams-coding-agents-start-stepping-on-each-other-c6fd4c0f44aa)
+- [More Claude Code Sessions Made Me Ship Less. Here's What Fixed It.](https://vinayroy.substack.com/p/more-claude-code-sessions-made-me)
 - [Building AI Agents That Survive Production](https://vinaysays.medium.com/building-ai-agents-that-survive-production-5bbb2257ba0a)
 - Medium: [vinaysays.medium.com](https://vinaysays.medium.com)
 - Substack: [Vinay Roy's Objective Function](https://vinayroy.substack.com)
